@@ -1,4 +1,4 @@
-# SouthernRestaurant-PerformanceDashboard
+# Southern Restaurant Performance Dashboard
 This project presents a detailed analysis on the sales performance and customer behaviour of the Southern Prefecture Restaurant.
 
 ### Data:
